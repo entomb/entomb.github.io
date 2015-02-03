@@ -98,7 +98,7 @@ A Lot... Besides the huge technical improvements I learned how to deal with pres
 
 
 ####{`Jan/2009 to Set/2009`} Web Developer at [Softconcept](http://www.softconcept.pt/)
-_Softconcept_ is a small software house that specialized on developing strong full-fledged products for Hotel Management. This Huge applications ware web-based and took care of every possible aspect about owning and managing an Hotel. It's main client was the [Vila Galé Group](http://www.vilagale.com/), an 18 Hotels chain, all of them covered by a single centralized CRM.
+_Softconcept_ is a small software house that specialized on developing strong full-fledged products for Hotel Management. This Huge applications were web-based and took care of every possible aspect about owning and managing an Hotel. It's main client was the [Vila Galé Group](http://www.vilagale.com/), an 18 Hotels chain, all of them covered by a single centralized CRM.
 
 #####I did...
 I was part of a team that was put together to rebuild the app from the ground up. I was closely managed by a team leader that had a very precise vision of the final product and helped us achieve short daily goals. We all worked together on almost every feature, but I spent more time around the PHP/JS/PLSQL that dealt with reservations, room planning and invoices.
