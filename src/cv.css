@@ -83,7 +83,7 @@ div#profiles ul span{
         float: right !important;
         width:45% !important;
         display: inline;
-        margin-top:-210px;
+/*        margin-top:-210px;*/
     }
     div#trade{
         float: left !important;
