@@ -45,10 +45,10 @@ Hi! I'm a __27 years__ old __Portuguese__ web developer, who enjoys _non-corpora
 
 
 ####{`since Set/2012`} Consultant at [NOVABASE](http://www.novabase.pt/), working at [SAPO](http://www.sapo.pt) a company owned by [Portugal Telecom](http://www.telecom.pt/)
-SAPO is a giant in portugal working with everything "web". I am working on a team called "onDemand" that deals with streaming content, be it video with [MEO Kanal](http://kanal.pt/), music with [MEO Music](http://music.meo.pt/), or games [MEO Jogos](http://jogos.meo.pt/). All three projects are multi-platform and have thousands of active users on each platform (Mobile/PC and TV) every day.
+SAPO is a giant in Portugal working with everything "web". I am working on a team called "onDemand" that deals with streaming content, be it video with [MEO Kanal](http://kanal.pt/), music with [MEO Music](http://music.meo.pt/), or games [MEO Jogos](http://jogos.meo.pt/). All three projects are multi-platform and have thousands of active users on each platform (Mobile/PC and TV) every day.
 
 #####I do...
-I'm focused on backoffice and frontend, but I also help on everything else the team does. From building webservices from the group up to architecture and scale backoffices, I've been working mainly with PHP. As of the frontend, apart from the web, some of this project have in-house developed apps that were fully made with javascript. It's a very small team on a very large company but we are self reliant and self sufficient, with (almost) full control over the projects code and infrastrure.
+I'm focused on backoffice and frontend, but I also help on everything else the team does. From building webservices from the group up to architecture and scale backoffices, I've been working mainly with PHP. As of the frontend, apart from the web, some of this project have in-house developed apps that were fully made with javascript. It's a very small team on a very large company but we are self reliant and self sufficient, with (almost) full control over the projects code and infrastructure.
 
 #####I work with...
 - the best tech team in Portugal
@@ -91,7 +91,7 @@ Some of the projects I was personaly involved with:
 - SQL, MySQL
 
 #####I Learned...
-A Lot... Besides the huge technical improvements I learned how to deal with pressure and how to deal with failure. _Kriação_ had such a wide scope that I ended up coding a bit of everything. I also had time to learn about project management and client expectation as we often had direct contact with the final clients. _Kriação_ was great to build up team spirit, entrepreneurship and the capacity of setting and achiving goals for myself.
+A Lot... Besides the huge technical improvements I learned how to deal with pressure and how to deal with failure. _Kriação_ had such a wide scope that I ended up coding a bit of everything. I also had time to learn about project management and client expectation as we often had direct contact with the final clients. _Kriação_ was great to build up team spirit, entrepreneurship and the capacity of setting and achieving goals for myself.
 
 
 
