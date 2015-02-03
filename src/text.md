@@ -29,8 +29,7 @@ Hi! I'm a __Portuguese__ web developer currently working and living in __Lisbon_
 
 <!--- /contacts -->
 
---------------------------------
-<hr/>
+-------------------------------- 
 
 <!--- work.all-100 --> 
 ##Work Experience 
