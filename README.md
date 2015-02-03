@@ -7,7 +7,7 @@ self-taught JS&PHP Developer and enthusiastic problem solver.
 
 
 
-Hi! I'm a __Portuguese__ web developer, who enjoys non-corporate environments and coding for challenging yet rewarding projects, currently working @[SAPO](http://www.sapo.pt) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
+Hi! I'm a 27 years old __Portuguese__ web developer, who enjoys non-corporate environments and coding for challenging yet rewarding projects, currently working @[SAPO](http://www.sapo.pt) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
 
 
 
