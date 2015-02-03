@@ -12,14 +12,14 @@ Hi! I'm a __Portuguese__ web developer currently working and living in __Lisbon_
 <!--- /about -->
 
 
-<!--- contacts.all-50.small-100 --> 
+<!--- contacts.all-50.small-100.tiny-100 --> 
 ##Contact me
 - Email: jtavares.codes@gmail.com
 - Phone: +351 {ask me personally}
 
 <!--- /contacts --> 
 
-<!--- profiles.all-50.small-100 --> 
+<!--- profiles.all-50.small-100.tiny-100 --> 
 
 ##Online Profiles
 - [@github {/entomb}](https://github.com/entomb)
