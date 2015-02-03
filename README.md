@@ -7,13 +7,12 @@ self-taught JS&PHP Developer and enthusiastic problem solver.
 
 
 
-Hi! I'm a __Portuguese__ web developer currently working and living in __Lisbon__.
+Hi! I'm a __Portuguese__ web developer, who enjoys non-corporate environments and coding for challenging yet rewarding projects, currently working @[SAPO](http://www.sapo.pt) and living in __Lisbon__.
 
 
 
 
-
-##Contact me
+##Contact Me
 - Email: jtavares.codes@gmail.com
 - Phone: +351 {ask me personally}
 
