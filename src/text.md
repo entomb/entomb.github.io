@@ -69,7 +69,7 @@ _Kriação_ is a-more-than-10 year old agency that operates around new media and
 
 
 #####I did...
-We had a lot of clients so the work was either maintenance on old projectos or the development of completely new ones. I developed our own CRM framework and later extended it to an E-Commerce platform, this framework was used internally in the development of most of the projects by me and other colleagues. I also worked with facebook API in the development of marketing campaigns and contests, and with multiple Payment gateway and invoicing API's in order to make the eCommerce work.
+We had a lot of clients, so the work was either maintenance on old projectos or the development of completely new ones. I developed our own CRM framework and later extended it to an E-Commerce platform, this framework was used internally in the development of most of the projects by me and other colleagues. I also worked with facebook API in the development of marketing campaigns and contests, and with multiple Payment gateway and invoicing API's in order to make the eCommerce work.
 
 Some of the projects I was personaly involved with:
 - [Lanterna Amarela](http://www.lanterna-amarela.pt/) - eCommerce
