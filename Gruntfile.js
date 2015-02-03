@@ -2,27 +2,44 @@ module.exports = function(grunt) {
 
  grunt.initConfig({
   watch: {
-      files: ['/src/*','README.md'],
-      tasks: ['markdown']
+      files: ['src/*'],
+      tasks: ['default']
     },
+  rename: {
+        moveHTML: {
+            src: 'src/text.html',
+            dest: 'index.html'
+        }, 
+    },
+  copy: {
+    copyREADME: {
+      src: 'src/text.md',
+      dest: 'README.md',
+      options: {
+        processContent: function (content, srcpath) {  
+          return content.replace(/<!--(.*?)-->/g,'');
+        },
+      },
+    },
+  },
   markdown: {
     all: {
       files: [
         {
           expand: true,
-          src: 'README.md',
-          dest: './',
+          src: 'src/text.md',
+          dest: '.',
           ext: '.html'
         }
       ],
       options: {
         template: 'src/cv.tpl',
-       /* preCompile: function(src, context) {  
-          return src;
-        },*/
-        postCompile: function(src, context) {   
-          src = src.replace(/\{/g,'<small>');
-          src = src.replace(/\}/g,'</small>');
+        preCompile: function(src, context) {   
+          src = src.replace(/\{/g,'<span>');
+          src = src.replace(/\}/g,'</span>');
+           return src;
+        }, 
+        postCompile: function(src, context) {    
 
           //containers
           src = src.replace(/<!--- ([\w\.\d\-]+) -->/g, function(str,arg){ 
@@ -51,10 +68,11 @@ module.exports = function(grunt) {
 });
 
 
-
+  grunt.loadNpmTasks('grunt-contrib-copy');
+  grunt.loadNpmTasks('grunt-rename');
   grunt.loadNpmTasks('grunt-markdown');
   grunt.loadNpmTasks('grunt-contrib-watch');
 
-  grunt.registerTask('default', ['markdown']); 
+  grunt.registerTask('default', ['markdown','rename','copy']); 
 
 };

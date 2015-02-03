@@ -1,24 +1,24 @@
- 
+<!--- welcome.all-100.hero --> 
 
 #{Hi! I'm} Jonathan Tavares
 ####self-taught JS&PHP Developer and enthusiastic problem solver
 
- 
+<!--- /welcome --> 
 
- 
+<!--- about.all-100 --> 
 I'm a __Portuguese__ web developer currently working and living in __Lisbon__. 
 
+<!--- /about -->
 
 
-
- 
+<!--- contacts.all-50.small-100 --> 
 ##Contact me
 - email: jtavares.codes@gmail.com
 - phone: +351 {ask me personally}
 
- 
+<!--- /contacts --> 
 
- 
+<!--- profiles.all-50.small-100 --> 
 
 ##Online Profiles
 - [@github {/entomb}](https://github.com/entomb)
@@ -26,9 +26,9 @@ I'm a __Portuguese__ web developer currently working and living in __Lisbon__.
 - [@linkedin {/jonathan-tavares/18/a90/a23}](linkedin.com/pub/jonathan-tavares/18/a90/a23)
 - [@coderwall {/entomb}](coderwall.com/entomb)
 
+<!--- /contacts -->
 
-
- 
+<!--- work.all-100 --> 
 ##Work Experience 
 
 ###Full-Time
@@ -87,10 +87,10 @@ Unfortunately most of these projects and companies are now gone (it's been almos
 - Micro CRM backoffice for bestway.com.pt
 - ZenCard modules for online shops
 
+<!--- /work -->
 
-
- 
+<!--- education.all-100 --> 
 ##Education {`2004 to 2007`}
 __High School__, IT Specific Course, Technology and Computer Science, (Curso tecnológico de informática), escola Secundária André de Gouveia in Évora
  
-  
+<!--- /education -->  

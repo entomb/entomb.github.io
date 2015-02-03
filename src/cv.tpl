@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en"> 
-    <head>
+    <head> 
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Jonathan Tavares</title>
@@ -17,7 +17,7 @@
         <!-- load Ink's CSS -->
         <link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/3.1.2/css/ink-flex.min.css">
         <link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/3.1.2/css/font-awesome.min.css">
-        <link rel="stylesheet" type="text/css" href="assets/cv.css">
+        <link rel="stylesheet" type="text/css" href="src/cv.css">
 
         <!-- load Ink's CSS for IE8 -->
         <!--[if lt IE 9 ]>
