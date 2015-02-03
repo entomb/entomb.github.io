@@ -114,15 +114,6 @@ As a first full time job, _Softconcept_ was a perfect place to learn about the w
 <!--- /position -->
 
 
-<!--- .position -->
-####{`Fev/2004 to Aug/2004`} From dishwasher to Receptionist at [Albergaria Acez](http://www.albergaria-acez.pt/)
-Hey, It's not a complete CV if I don't list all my full time positions... I worked 9 months on a 4 star hotel,
-started as a dishwasher and got "promoted" to waitress in the first week. Worked for 3 more months at the Hotel's (very fancy) Restaurant and got "promoted" again to Receptionist.
-The time I spent taking care of reservations and dealing with hotel logistics proved to be very important for my next full time job almost 4 years later.
-I left _Albergaria Acez_ in favor of my High School education and to pursue the dream of one day becoming a Software Developer.
-<!--- /position -->
-
-
 
 ###Freelance
 
