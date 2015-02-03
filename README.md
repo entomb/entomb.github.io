@@ -7,24 +7,34 @@ self-taught JS&PHP Developer and enthusiastic problem solver.
 
 
 
-Hi! I'm a 27 years old __Portuguese__ web developer, who enjoys non-corporate environments and coding for challenging yet rewarding projects, currently working @[SAPO](http://www.sapo.pt) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
+Hi! I'm a __27 years__ old __Portuguese__ web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[SAPO](http://www.sapo.pt) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
 
 
 
 
-##Contact Me
+##What do I do?
+- Software Architecture
+- PHP/MVC/OOP/ORM
+- JS/NODE/HTML/CSS3
+- Webservices, SOAP/REST
+- SQL/NOSQL/XML/JSON/ORACLE
+- UX and UI
+- Frontend Developtment
+- Templating and Layout
+
+
+
+
+
+##Public Profiles:
+- [@github](https://github.com/entomb)
+- [@stackoverflow](http://stackoverflow.com/users/1788500/jtavares)
+- [@linkedin](http://linkedin.com/pub/jonathan-tavares/18/a90/a23)
+- [@coderwall](http://coderwall.com/entomb)
+
+##Contact Me:
 - Email: jtavares.codes@gmail.com
 - Phone: +351 {ask me personally}
-
-
-
-
-
-##Online Profiles
-- [@github {/entomb}](https://github.com/entomb)
-- [@stackoverflow {/users/1788500/jtavares}](http://stackoverflow.com/users/1788500/jtavares)
-- [@linkedin {/jonathan-tavares/18/a90/a23}](http://linkedin.com/pub/jonathan-tavares/18/a90/a23)
-- [@coderwall {/entomb}](http://coderwall.com/entomb)
 
 
 
@@ -34,7 +44,7 @@ Hi! I'm a 27 years old __Portuguese__ web developer, who enjoys non-corporate en
 ##Work Experience
 
 
-####{`Set/2012 up until now`} Consultant at [NOVABASE](http://www.novabase.pt/), working at [SAPO](http://www.sapo.pt) a company owned by [Portugal Telecom](http://www.telecom.pt/)
+####{`since Set/2012`} Consultant at [NOVABASE](http://www.novabase.pt/), working at [SAPO](http://www.sapo.pt) a company owned by [Portugal Telecom](http://www.telecom.pt/)
 SAPO is a giant in portugal working with everything "web". I am working on a team called "onDemand" that deals with streaming content, be it video with [MEO Kanal](http://kanal.pt/), music with [MEO Music](http://music.meo.pt/), or games [MEO Jogos](http://jogos.meo.pt/). All three projects are multi-platform and have thousands of active users on each platform (Mobile/PC and TV) every day.
 
 #####I do...

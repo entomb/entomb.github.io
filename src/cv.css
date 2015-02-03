@@ -1,16 +1,12 @@
-body{
-    background-color: #CECECE;
-    color:#222;
-}
+body{ background-color: #CECECE; color:#222; }
 p{font-family: Arial}
 a{color:#00528B;}
-div#contacts ul span{
+div#profiles ul span{
     color:#333;
     border: 1px dashed #999;
     padding: 4px 8px;
     color: #FFF;
 }
-
 #title h1{
     margin-bottom: .05em;
     font-size: 4em;
@@ -28,20 +24,15 @@ div#contacts ul span{
     width: 100%;
     box-shadow: 0px 5px 15px #888888;
 }
-
-
- .position ul{
-
+.position ul{
     margin: .5em  2em;
-
- }
- .position p{
+}
+.position p{
     margin-left: 1.6em;
- }
+}
 .position h5{
     margin: 2em 0 0.2em 1.5em;
 }
-
 #about{margin-left: 2em; padding:1em;}
 #about,
 .position{
@@ -49,8 +40,8 @@ div#contacts ul span{
     padding-bottom: 1em;
     margin-bottom: 2em;
     box-shadow: 0px 5px 15px #888888;
- }
- .position h4 span{
+}
+.position h4 span{
     color:#ccc;
     display: block;
     border-bottom: 1px solid #CCC;
@@ -58,14 +49,45 @@ div#contacts ul span{
     padding-bottom: .2em;
     font-size: .7em;
     font-weight: normal;
- }
- .position h4{
+}
+.position h4{
     background-color:#222;
     padding:.5em;
     color:#FFF;
- }
+}
 
- #work h2{
+#work h2{
     font-size: 2.7em;
- }
+}
 
+
+
+@media print {
+    body{
+        font-size: .8em;
+    }
+    #welcome,
+    #title {
+        margin-top: .5em;
+        margin-bottom: .5em;
+    }
+    h2{ font-size: 2em!important}
+    hr{ clear:both;}
+    #title h1{
+        margin-bottom: .05em;
+        font-size: 2em;
+    }
+    #about{ display: none; }
+
+    div#profiles{
+        float: right !important;
+        width:45% !important;
+        display: inline;
+        margin-top:-210px;
+    }
+    div#trade{
+        float: left !important;
+        width:40% !important;
+        display: inline;
+    }
+}
