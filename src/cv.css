@@ -1,8 +1,68 @@
-
-div#contacts ul small{
-    color:#333;
-    border: 1px dashed #CCC;
-    padding: 4px 8px;
-    color: #CECECE;
-
+body{
+    background-color: #CECECE;
+    color:#222; 
 }
+p{font-family: Arial}
+a{color:#00528B;}
+div#contacts ul span{
+    color:#333;
+    border: 1px dashed #999;
+    padding: 4px 8px;
+    color: #FFF;
+}
+
+#title h1{
+    margin-bottom: .05em;
+    font-size: 4em;
+    color:#FFF;
+}
+#title p{
+    font-size: 1.2em;
+    color:#CCC;
+}
+#title{
+    background-color:#000;
+    color:#FFF;
+    padding:2em;
+    width: 100%; 
+}
+ 
+ 
+ .position ul{
+    
+    margin: .5em  2em;
+    
+ }
+ .position p{
+    margin-left: 1.6em;
+ }
+.position h5{
+    margin: 2em 0 0.2em 1.5em;
+}
+
+#about{margin-left: 2em; padding:1em;}
+#about,
+.position{
+    background-color: #FFF;
+    padding-bottom: 1em;
+    margin-bottom: 2em;
+ }
+ .position h4 span{
+    color:#ccc;
+    display: block;
+    border-bottom: 1px solid #CCC;
+    margin-bottom: .2em;
+    padding-bottom: .2em;
+    font-size: .7em;
+    font-weight: normal;
+ }
+ .position h4{
+    background-color:#222;
+    padding:.5em;
+    color:#FFF;
+ }
+
+ #work h2{
+    font-size: 2.7em;
+ }
+ 

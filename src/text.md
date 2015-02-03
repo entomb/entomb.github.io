@@ -1,20 +1,21 @@
-<!--- welcome.all-100.hero --> 
+<!--- welcome.all-100 --> 
+<!--- title --> 
+#Jonathan Tavares 
 
-#{Hi! I'm} Jonathan Tavares
-####self-taught JS&PHP Developer and enthusiastic problem solver
-
+self-taught JS&PHP Developer and enthusiastic problem solver.
+<!--- /title --> 
 <!--- /welcome --> 
 
 <!--- about.all-100 --> 
-I'm a __Portuguese__ web developer currently working and living in __Lisbon__. 
+Hi! I'm a __Portuguese__ web developer currently working and living in __Lisbon__. 
 
 <!--- /about -->
 
 
 <!--- contacts.all-50.small-100 --> 
 ##Contact me
-- email: jtavares.codes@gmail.com
-- phone: +351 {ask me personally}
+- Email: jtavares.codes@gmail.com
+- Phone: +351 {ask me personally}
 
 <!--- /contacts --> 
 
@@ -28,69 +29,110 @@ I'm a __Portuguese__ web developer currently working and living in __Lisbon__.
 
 <!--- /contacts -->
 
+--------------------------------
+<hr/>
+
 <!--- work.all-100 --> 
 ##Work Experience 
 
-###Full-Time
-####{`Set/2012 up until now`} | Consultant at [NOVABASE](http://www.novabase.pt/), working at [SAPO](http://www.sapo.pt) a company owned by [Portugal Telecom](http://www.telecom.pt/)
+<!--- .position --> 
+####{`Set/2012 up until now`} Consultant at [NOVABASE](http://www.novabase.pt/), working at [SAPO](http://www.sapo.pt) a company owned by [Portugal Telecom](http://www.telecom.pt/)
+SAPO is a giant in portugal and we deal with everything "web". I am working on a team called "onDemand" that deals with streaming content, be it video with [MEO Kanal](http://kanal.pt/), music with [MEO Music](http://music.meo.pt/), or games [MEO Jogos](http://jogos.meo.pt/). All three projects are multi-platform and have thousands of active users on each platform (Mobile/PC and TV) every day.
 
+#####I do...
+I'm focused on backoffice and frontend, but I also help on everything else the team does. From building webservices from the group up to architecture and scale backoffices, I've been working mainly with PHP. As of the frontend, apart from the web, some of this project have in-house developed apps that were fully made with javascript. It's a very small team on a very large company but we are self reliant and self sufficient, with (almost) full control over the projects code and infrastrure.
 
-####{`Set/2009 to Set/2012`} | Web Developer at [Kriação](http://kriacao.pt/) 
-Softconcept was a small company that specialized on developing a strong and full-fledged CRM for Hotels. This Huge application was web-based and took care of every possible aspect of Hotel maintenance and operation. 
+#####I work with...
+- the best tech team in Portugal
+- PHP5, JS, CSS3
+- Codeigniter, SLIM, PHPunit and other php frameworks and tools
+- jQuery, ink.js and other JS frameworks and tools
+- GIT, SVN
+- Memcache, redis
+- node, grunt, npm, vagrant, apache
+- XML/JSON SOAP/REST clients and servers
+- SQL, MySQL, Maria, PostgreSQL, Solr
+ 
+<!--- /position --> 
+
+<!--- .position --> 
+####{`Set/2009 to Set/2012`} Web Developer at [Kriação](http://kriacao.pt/) 
+Kriação a is more than 10 year old agency that operates around new media and web-marketing, most of its clients were local, but from time to time I had the opportunity to work with big names in Portugal. Kriação had incredible project variety and output, with short timings, huge pressure and a very passionate team that made it all feel like a breeze.
+ 
 
 #####I did...
-I was part of a team that was put together to rebuild the app from the ground up. I was closely managed by a team leader that had a very precise vision of the final product and helped us achieve short daily goals. We all worked together on almost every feature, but I spent more time around the PHP/JS/PLSQL that dealt with reservations, room planning and accounting.
+We had a lot of clients so the work was either maintenance on old projectos or the development of completely new ones. I developed our own CRM framework and later extended it to an E-Commerce platform, this framework was used internally in the development of most of the projects by me and other colleagues. I also worked with facebook API in the development of marketing campaigns and contests.
+
+Some of the projects where I was personaly involved with:
+- [Lanterna Amarela](http://www.lanterna-amarela.pt/) - eCommerce
+- [Peniche Surfcamp](http://www.penichesurfcamp.com/) - Website
+- [Vitaminas](http://www.vitaminas.com.pt) - Personal diet planer
+- [Mascarilha](http://www.mascarilha.pt/) - eCommerce/CRM/SRM
+- [Portal de Artistas](http://portaldeartistas.pt) and [Espaços para eventos](http://espacosparaeventos.com.pt/) - website/CRM
+- [UnyLeya](http://www.unyleya.com.pt/) - eCommerce/eLearning
+- wait4less - micro biding/gambling 
+- APTAC (Associação Portuguesa dos Técnicos de Análises Clinicas) - CRM
+- Facebook campaigns: Optimus, Continente, Worten, TMN, FUEL, 
+
 
 #####I worked with...
-- PHP 4, JS, CSS. 
-- lots of AJAX, with YUI and Prototype.js
-- XML/SOAP
-- ORACLE/PLSQL
+- PHP 3,4,5, JS, CSS. 
+- MVC frameworks
+- UI and UX, jQuery and Prototype.js
+- Webservices: XML/JSON SOAP/REST clients
+- SQL, MySQL
 
 #####I Learned...
-As a first full time job, Softconcept was a perfect place to learn about the working environment of IT companies. I worked with very skilled developers who welcomed me as their newbie. Meenwhile, I had time to learn basic skills like version controll, development and deployment workflow, and self time/task management.
+ A Lot... Besides the huge technical improvements I learned how to deal with pressure and how to deal with failure. Kriação had such a large scope that I ended up coding a bit of everything but I also had time to learn about project management and client expectation as we often had directl contact with the final clients. Kriação was great to build up team spirit, entrepreneurship and the capacity of setting and achiving goals for myself.
+<!--- /position --> 
 
 
 
-
-
-####{`Jan/2009 to Set/2009`} | Web Developer at [Softconcept](http://www.softconcept.pt/) 
-Softconcept was a small company that specialized on developing a strong and full-fledged CRM for Hotels. This Huge application was web-based and took care of every possible aspect of Hotel maintenance and operation. 
+<!--- .position --> 
+####{`Jan/2009 to Set/2009`} Web Developer at [Softconcept](http://www.softconcept.pt/) 
+Softconcept is a small company that specialized on developing a strong and full-fledged CRM for Hotels. This Huge application was web-based and took care of every possible aspect of Hotel maintenance and operation. 
 
 #####I did...
 I was part of a team that was put together to rebuild the app from the ground up. I was closely managed by a team leader that had a very precise vision of the final product and helped us achieve short daily goals. We all worked together on almost every feature, but I spent more time around the PHP/JS/PLSQL that dealt with reservations, room planning and invoices.
 
 #####I worked with...
 - PHP 4, JS, CSS. 
-- lots of AJAX, with YUI and Prototype.js
-- XML/SOAP
+- AJAX, with YUI and Prototype.js
+- XML/SOAP clients
 - ORACLE/PLSQL
 
 #####I Learned...
 As a first full time job, Softconcept was a perfect place to learn about the working environment of IT companies. I worked with very skilled developers who welcomed me as their newbie. Meanwhile, I had time to learn basic skills like version control, development and deployment workflow, and self time/task management. The opportunity  to work with Oracle also shaped my view and expertise around databases since.
+<!--- /position --> 
 
 
-
-
-####{`Fev/2004 to Aug/2004`} | From dishwasher to Receptionist at [Albergaria Acez](http://www.albergaria-acez.pt/) 
+<!--- .position --> 
+####{`Fev/2004 to Aug/2004`} From dishwasher to Receptionist at [Albergaria Acez](http://www.albergaria-acez.pt/) 
 Hey, It's not a complete CV if I don't list all my full time positions... I worked 9 months on a 4 star hotel, 
 started as a dishwasher and got "promoted" to waitress in the first week. Worked for 3 more months at the Hotel's (very fancy) Restaurant and got "promoted" again to Receptionist.
-The time I spend taking care of reservations and dealing with hotel logistics proved to be very important for my next full time job almost 4 years later.
+The time I spent taking care of reservations and dealing with hotel logistics proved to be very important for my next full time job almost 4 years later.
 I left _Albergaria Acez_ in favor of my High School education and to pursue the dream of one day becoming a Software Developer.
+<!--- /position --> 
 
 
-###Freelance {`2006 to set/2008`}
-I started coding (as a job) around 2006. With my first freelances I leaded valuable lessons that led me to never do freelance again.
+
+###Freelance 
+
+<!--- .position --> 
+####{`2006 to set/2008`}
+I started coding (as a job) around 2006. Working on my first freelances made me learn valuable lessons that led me to never do freelance again.
 Unfortunately most of these projects and companies are now gone (it's been almost 10 years). The freelance projects included:
 - Dynamic presentations and small flash games
 - Simple Website&Backoffice ex: [Solaris Hotel](http://www.solarishotel.pt/), [skandia](http://www.skandia.pt/), [BemMeQuer](http://www.bemmequer.com.pt/)
 - Micro CRM backoffice for bestway.com.pt
 - ZenCard modules for online shops
+<!--- /position --> 
+
 
 <!--- /work -->
 
 <!--- education.all-100 --> 
-##Education {`2004 to 2007`}
-__High School__, IT Specific Course, Technology and Computer Science, (Curso tecnológico de informática), escola Secundária André de Gouveia in Évora
+##Education
+__High School (2007)__, IT Specific Course, Technology and Computer Science, (Curso tecnológico de informática), escola Secundária André de Gouveia in Évora
  
 <!--- /education -->  
