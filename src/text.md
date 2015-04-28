@@ -7,7 +7,7 @@ self-taught JS&PHP Developer and enthusiastic problem solver.
 <!--- /welcome -->
 
 <!--- about.all-100 -->
-Hi! I'm a __27 years__ old __Portuguese__ web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[SAPO](http://www.sapo.pt) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
+Hi! I'm a __27 years__ old __Portuguese__ web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[Impossible.com](http://www.impossible.com) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
 <!--- /about -->
 
 
@@ -44,7 +44,14 @@ Hi! I'm a __27 years__ old __Portuguese__ web developer, who enjoys _non-corpora
 ##Work Experience
 
 <!--- .position -->
-####{`since Set/2012`} Consultant at [NOVABASE](http://www.novabase.pt/), working at [SAPO](http://www.sapo.pt) a company owned by [Portugal Telecom](http://www.telecom.pt/)
+####{`since Abr/2015`} Lead Web Developer at [Impossible](http://www.impossible.com/), via [Kwamecorp](http://www.kwamecorp.com/)
+Impossible is an altruism-based social network which invites people to give their services and skills away to help others.
+
+<!--- /position -->
+
+
+<!--- .position -->
+####{`Set/2012` to Abr/2015} Consultant at [NOVABASE](http://www.novabase.pt/), working at [SAPO](http://www.sapo.pt) a company owned by [Portugal Telecom](http://www.telecom.pt/)
 SAPO is a giant in Portugal working with everything "web". I am working on a team called "onDemand" that deals with streaming content, be it video with [MEO Kanal](http://kanal.pt/), music with [MEO Music](http://music.meo.pt/), or games [MEO Jogos](http://jogos.meo.pt/). All three projects are multi-platform and have thousands of active users on each platform (Mobile/PC and TV) every day.
 
 #####I do...
