@@ -1,5 +1,6 @@
 
 
+
 #Jonathan Tavares
 
 self-taught JS&PHP Developer and enthusiastic problem solver.
@@ -7,20 +8,23 @@ self-taught JS&PHP Developer and enthusiastic problem solver.
 
 
 
-Hi! I'm a __27 years__ old __Portuguese__ web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[Impossible.com](http://www.impossible.com) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
+
+Hi! I'm a __29 years__ old __Portuguese__ web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[Impossible.com](http://www.impossible.com) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
+
+
 
 
 
 
 ##What do I do?
 - Software Architecture
-- PHP/MVC/OOP/ORM
-- JS/NODE/HTML/CSS3
-- Webservices, SOAP/REST
-- SQL/NOSQL/XML/JSON/ORACLE
-- UX and UI
 - Frontend Developtment
-- Templating and Layout
+- JS/NODE/HTML/CSS3
+- PHP/MVC/OOP/ORM
+- DevOps
+- Webservices, SOAP/REST
+- Graphs/SQL/NOSQL/ORACLE
+
 
 
 
@@ -41,11 +45,14 @@ Hi! I'm a __27 years__ old __Portuguese__ web developer, who enjoys _non-corpora
 --------------------------------
 
 
+
 ##Work Experience
+
 
 
 ####{`since Abr/2015`} Lead Web Developer at [Impossible](http://www.impossible.com/), via [Kwamecorp](http://www.kwamecorp.com/)
 Impossible is an altruism-based social network which invites people to give their services and skills away to help others.
+
 
 
 
@@ -67,6 +74,7 @@ I'm focused on backoffice and frontend, but I also help on everything else the t
 - node, grunt, npm, vagrant, apache
 - XML/JSON SOAP/REST clients and servers
 - SQL, MySQL, Maria, PostgreSQL, Solr
+
 
 
 
@@ -104,6 +112,8 @@ A Lot... Besides the huge technical improvements I learned how to deal with pres
 
 
 
+
+
 ####{`Jan/2009 to Set/2009`} Web Developer at [Softconcept](http://www.softconcept.pt/)
 _Softconcept_ is a small software house that specialized on developing strong full-fledged products for Hotel Management. This Huge applications were web-based and took care of every possible aspect about owning and managing an Hotel. It's main client was the [Vila Galé Group](http://www.vilagale.com/), an 18 Hotels chain, all of them covered by a single centralized CRM.
 
@@ -125,6 +135,7 @@ As a first full time job, _Softconcept_ was a perfect place to learn about the w
 ###Freelance
 
 
+
 ####{`2006 to set/2008`}
 I started coding (as a job) around 2006. Working on my first freelances made me learn valuable lessons that led me to never do freelance again.
 Unfortunately most of these projects and companies are now gone (it's been almost 10 years). The freelance projects included:
@@ -132,6 +143,8 @@ Unfortunately most of these projects and companies are now gone (it's been almos
 - Simple Website&Backoffice ex: [Solaris Hotel](http://www.solarishotel.pt/), [skandia](http://www.skandia.pt/), [BemMeQuer](http://www.bemmequer.com.pt/)
 - Micro CRM backoffice for bestway.com.pt
 - ZenCard modules for online shops
+
+
 
 
 

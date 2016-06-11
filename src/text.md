@@ -1,5 +1,6 @@
 <!--- welcome.all-100 -->
 <!--- title -->
+
 #Jonathan Tavares
 
 self-taught JS&PHP Developer and enthusiastic problem solver.
@@ -7,20 +8,23 @@ self-taught JS&PHP Developer and enthusiastic problem solver.
 <!--- /welcome -->
 
 <!--- about.all-100 -->
-Hi! I'm a __27 years__ old __Portuguese__ web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[Impossible.com](http://www.impossible.com) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
+
+Hi! I'm a __29 years__ old __Portuguese__ web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[Impossible.com](http://www.impossible.com) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
+
 <!--- /about -->
 
 
 <!--- trade.all-50.small-100.tiny-100 -->
+
 ##What do I do?
 - Software Architecture
-- PHP/MVC/OOP/ORM
-- JS/NODE/HTML/CSS3
-- Webservices, SOAP/REST
-- SQL/NOSQL/XML/JSON/ORACLE
-- UX and UI
 - Frontend Developtment
-- Templating and Layout
+- JS/NODE/HTML/CSS3
+- PHP/MVC/OOP/ORM
+- DevOps
+- Webservices, SOAP/REST
+- Graphs/SQL/NOSQL/ORACLE
+
 <!--- /trade -->
 
 
@@ -41,9 +45,11 @@ Hi! I'm a __27 years__ old __Portuguese__ web developer, who enjoys _non-corpora
 --------------------------------
 
 <!--- work.all-100 -->
+
 ##Work Experience
 
 <!--- .position -->
+
 ####{`since Abr/2015`} Lead Web Developer at [Impossible](http://www.impossible.com/), via [Kwamecorp](http://www.kwamecorp.com/)
 Impossible is an altruism-based social network which invites people to give their services and skills away to help others.
 
@@ -51,6 +57,7 @@ Impossible is an altruism-based social network which invites people to give thei
 
 
 <!--- .position -->
+
 ####{`Set/2012` to Abr/2015} Consultant at [NOVABASE](http://www.novabase.pt/), working at [SAPO](http://www.sapo.pt) a company owned by [Portugal Telecom](http://www.telecom.pt/)
 SAPO is a giant in Portugal working with everything "web". I am working on a team called "onDemand" that deals with streaming content, be it video with [MEO Kanal](http://kanal.pt/), music with [MEO Music](http://music.meo.pt/), or games [MEO Jogos](http://jogos.meo.pt/). All three projects are multi-platform and have thousands of active users on each platform (Mobile/PC and TV) every day.
 
@@ -71,6 +78,7 @@ I'm focused on backoffice and frontend, but I also help on everything else the t
 <!--- /position -->
 
 <!--- .position -->
+
 ####{`Set/2009 to Set/2012`} Web Developer at [Kriação](http://kriacao.pt/)
 _Kriação_ is a-more-than-10 year old agency that operates around new media and web-marketing, most of its clients were local, but from time to time I had the opportunity to work with big names in Portugal. Kriação had incredible project variety and output, with short timings, huge pressure and a very passionate team that made it all feel like a breeze.
 
@@ -99,11 +107,13 @@ Some of the projects I was personaly involved with:
 
 #####I Learned...
 A Lot... Besides the huge technical improvements I learned how to deal with pressure and how to deal with failure. _Kriação_ had such a wide scope that I ended up coding a bit of everything. I also had time to learn about project management and client expectation as we often had direct contact with the final clients. _Kriação_ was great to build up team spirit, entrepreneurship and the capacity of setting and achieving goals for myself.
+
 <!--- /position -->
 
 
 
 <!--- .position -->
+
 ####{`Jan/2009 to Set/2009`} Web Developer at [Softconcept](http://www.softconcept.pt/)
 _Softconcept_ is a small software house that specialized on developing strong full-fledged products for Hotel Management. This Huge applications were web-based and took care of every possible aspect about owning and managing an Hotel. It's main client was the [Vila Galé Group](http://www.vilagale.com/), an 18 Hotels chain, all of them covered by a single centralized CRM.
 
@@ -125,6 +135,7 @@ As a first full time job, _Softconcept_ was a perfect place to learn about the w
 ###Freelance
 
 <!--- .position -->
+
 ####{`2006 to set/2008`}
 I started coding (as a job) around 2006. Working on my first freelances made me learn valuable lessons that led me to never do freelance again.
 Unfortunately most of these projects and companies are now gone (it's been almost 10 years). The freelance projects included:
@@ -132,12 +143,14 @@ Unfortunately most of these projects and companies are now gone (it's been almos
 - Simple Website&Backoffice ex: [Solaris Hotel](http://www.solarishotel.pt/), [skandia](http://www.skandia.pt/), [BemMeQuer](http://www.bemmequer.com.pt/)
 - Micro CRM backoffice for bestway.com.pt
 - ZenCard modules for online shops
+
 <!--- /position -->
 
 
 <!--- /work -->
 
 <!--- education.all-100 -->
+
 ##Education
 __High School (2007)__, IT Specific Course, Technology and Computer Science, (Curso tecnológico de informática), escola Secundária André de Gouveia in Évora
 
