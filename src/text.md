@@ -34,7 +34,6 @@ Hi! I'm a __29 years__ old __Portuguese__ web developer, who enjoys _non-corpora
 - [@github](https://github.com/entomb)
 - [@stackoverflow](http://stackoverflow.com/users/1788500/jtavares)
 - [@linkedin](http://linkedin.com/pub/jonathan-tavares/18/a90/a23)
-- [@coderwall](http://coderwall.com/entomb)
 
 ##Contact Me:
 - Email: jtavares.codes@gmail.com
@@ -50,22 +49,31 @@ Hi! I'm a __29 years__ old __Portuguese__ web developer, who enjoys _non-corpora
 
 <!--- .position -->
 
-####{`since Abr/2015`} Lead Web Developer at [Impossible](http://www.impossible.com/), via [Kwamecorp](http://www.kwamecorp.com/)
-Impossible is an altruism-based social network which invites people to give their services and skills away to help others.
+####{`since Abr/2015`} Web Developer at [Impossible](http://www.impossible.com/)
+Tech-lead on [Impossible People](http://app.impossible.com/).
+Impossible People is an altruism-based social network which invites people to give their services and skills away to help others. This is now an [OpenSource project](https://github.com/iampossible/gnome) built in Ionic2 and nodejs. I have since moved to other projects as a devOp and backend developer
 
+#####I work with...
+- the [_coolest god damn_](https://medium.com/@impossible_labs/creative-healthy-lifestyle-from-culture-to-the-way-of-life-11751fd982d9#.tic99ji5t) tech and design team in Portugal
+- JS, NODE, PHP, Bash... anything goes
+- AWS (s3, ec2, sqs, sns, ebs, Ec)
+- Ionic, React, Node, Cordova, Angular2 and other JS frameworks and tools
+- Codeigniter, SLIM, Laravel, PHPunit and other php frameworks and tools
+- Memcache, redis, rabbitmq, and other 3rd party tools
+- NEO4j, Mongo, MySQL, Solr
 <!--- /position -->
 
 
 <!--- .position -->
 
 ####{`Set/2012` to Abr/2015} Consultant at [NOVABASE](http://www.novabase.pt/), working at [SAPO](http://www.sapo.pt) a company owned by [Portugal Telecom](http://www.telecom.pt/)
-SAPO is a giant in Portugal working with everything "web". I am working on a team called "onDemand" that deals with streaming content, be it video with [MEO Kanal](http://kanal.pt/), music with [MEO Music](http://music.meo.pt/), or games [MEO Jogos](http://jogos.meo.pt/). All three projects are multi-platform and have thousands of active users on each platform (Mobile/PC and TV) every day.
+SAPO is a giant in Portugal working with everything "web". I was working on a team called "onDemand" that dealt with streaming content, be it video with [MEO Kanal](http://kanal.pt/), music with [MEO Music](http://music.meo.pt/), or games [MEO Jogos](http://jogos.meo.pt/). All three projects are multi-platform and have thousands of active users on each platform (Mobile/PC and TV) every day.
 
-#####I do...
-I'm focused on backoffice and frontend, but I also help on everything else the team does. From building webservices from the group up to architecture and scale backoffices, I've been working mainly with PHP. As of the frontend, apart from the web, some of this project have in-house developed apps that were fully made with javascript. It's a very small team on a very large company but we are self reliant and self sufficient, with (almost) full control over the projects code and infrastructure.
+#####I did...
+I was focused on backoffice and frontend, but I also helped on everything else the team did. From building webservices from the groud up to architecture and scale backoffices, I've worked mainly with PHP. As of the frontend, apart from the web, some of this project have in-house developed apps that were fully made with javascript. It was a very small team on a very large company but we were self reliant and self sufficient, with (almost) full control over the projects code and infrastructure.
 
 #####I work with...
-- the best tech team in Portugal
+- the _best god damn_ tech team in Portugal
 - PHP5, JS, CSS3
 - Codeigniter, SLIM, PHPunit and other php frameworks and tools
 - jQuery, ink.js and other JS frameworks and tools
