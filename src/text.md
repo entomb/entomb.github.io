@@ -51,7 +51,11 @@ Hi! I'm a __30 years__ old __Portuguese__ web developer, who enjoys _non-corpora
 
 ####{`since Abr/2015`} Web Developer at [Impossible](http://www.impossible.com/)
 Tech-lead on [Impossible People](http://app.impossible.com/).
-Impossible People is an altruism-based social network which invites people to give their services and skills away to help others. This is now an [OpenSource project](https://github.com/iampossible/gnome) built in Ionic2 and nodejs. I have since moved to other projects as a devOp and backend developer
+Impossible People is an altruism-based social network which invites people to give their services and skills away to help others. This is now an [OpenSource project](https://github.com/iampossible/gnome) built in Ionic2 and nodejs. 
+
+Tech-lead on [Kinsu](https://kinsu.co.uk/). Kinsu is making insurance great again.
+
+I have since moved to other projects as a devOp and backend developer
 
 #####I work with...
 - the [_coolest god damn_](https://medium.com/@impossible_labs/creative-healthy-lifestyle-from-culture-to-the-way-of-life-11751fd982d9#.tic99ji5t) tech and design team in Portugal
