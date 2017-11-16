@@ -9,7 +9,7 @@ self-taught JS&PHP Developer and enthusiastic problem solver.
 
 <!--- about.all-100 -->
 
-Hi! I'm a __29 years__ old __Portuguese__ web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[Impossible.com](http://www.impossible.com) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
+Hi! I'm a __30 years__ old __Portuguese__ web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[Impossible.com](http://www.impossible.com) and living in __Lisbon__. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
 
 <!--- /about -->
 
