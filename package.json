@@ -1,6 +1,6 @@
 {
   "name": "jtavares-cv",
-  "version": "0.1.2015",
+  "version": "0.1.2017",
   "description":"META project to hold my personal CV info.",
   "devDependencies": {
     "grunt": "~0.4.5",
