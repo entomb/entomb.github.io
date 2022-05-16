@@ -126,18 +126,6 @@ _Kriação_ is a-more-than-10 year old agency that operates around new media and
 
 We had a lot of clients, so the work was either maintenance on old projects or the development of completely new ones. I developed our own CRM framework and later extended it to an E-Commerce platform, this framework was used internally in the development of most of the projects by me and other colleagues. I also worked with facebook API in the development of marketing campaigns and contests, and with multiple Payment gateway services and invoicing API's in order to make the E-Commerce part work.
 
-Some of the projects I was personaly involved with:
-
-- [Lanterna Amarela](http://www.lanterna-amarela.pt/) - eCommerce
-- [Peniche Surfcamp](http://www.penichesurfcamp.com/) - Website
-- [Vitaminas](http://www.vitaminas.com.pt) - Personal diet planer
-- [Mascarilha](http://www.mascarilha.pt/) - eCommerce/CRM/SRM
-- [Portal de Artistas](http://portaldeartistas.pt) and [Espaços para eventos](http://espacosparaeventos.com.pt/) - website/CRM
-- [UnyLeya](http://www.unyleya.com.pt/) - eCommerce/eLearning
-- wait4less - micro biding/gambling
-- APTAC (Associação Portuguesa dos Técnicos de Análises Clinicas) - CRM
-- Facebook campaigns: Optimus, Continente, Worten, TMN, FUEL,
-
 ##### I worked with...
 
 - PHP 3/4 and 5, JS, CSS.
@@ -184,9 +172,9 @@ As a first full time job, _Softconcept_ was a perfect place to learn about the w
 I started coding (as a job) around 2006. Working on my first freelances made me learn valuable lessons that led me to never do freelance again.
 Unfortunately most of these projects and companies are now gone (it's been almost 10 years). The freelance projects included:
 
-- Dynamic presentations and small flash games
-- Simple Website&Backoffice ex: [Solaris Hotel](http://www.solarishotel.pt/), [skandia](http://www.skandia.pt/), [BemMeQuer](http://www.bemmequer.com.pt/)
-- Micro CRM backoffice for bestway.com.pt
+- Dynamic presentations and small Flash games
+- Simple PHP Websites with custom CMS
+- Simple PHP CRM systems and plugins
 - ZenCard modules for online shops
 
 
