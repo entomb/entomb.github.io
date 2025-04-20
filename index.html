@@ -12,20 +12,20 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
  
         <!-- load Ink's CSS -->
-        <link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/3.1.2/css/ink-flex.min.css">
-        <link rel="stylesheet" type="text/css" href="http://fastly.ink.sapo.pt/3.1.2/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="https://cdn.ink.sapo.pt/3.1.10/css/ink-flex.min.css">
+        <link rel="stylesheet" type="text/css" href="https://cdn.ink.sapo.pt/3.1.20/css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css" href="src/cv.css">
 
         <!-- load Ink's CSS for IE8 -->
         <!--[if lt IE 9 ]>
-            <link rel="stylesheet" href="http://fastly.ink.sapo.pt/3.1.2/css/ink-ie.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
+            <link rel="stylesheet" href="https://cdn.ink.sapo.pt/3.1.10/css/ink-ie.min.css" type="text/css" media="screen" title="no title" charset="utf-8">
         <![endif]-->
  
-        <script type="text/javascript" src="http://fastly.ink.sapo.pt/3.1.2/js/modernizr.js"></script>
+        <script type="text/javascript" src="https://cdn.ink.sapo.pt/3.1.10/js/modernizr.js"></script>
         <script type="text/javascript">
             Modernizr.load({
               test: Modernizr.flexbox,
-              nope : 'http://fastly.ink.sapo.pt/3.1.2/css/ink-legacy.min.css'
+              nope : 'https://cdn.ink.sapo.pt/3.1.10/css/ink-legacy.min.css'
             });
         </script>
 
