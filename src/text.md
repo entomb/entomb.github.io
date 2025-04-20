@@ -3,14 +3,14 @@
 
 # Jonathan Tavares
 
-self-taught JS<del title="I have been free from PHP since 2015 and I will never go back">& formerly PHP</del> Developer, aspiring DevOp and enthusiastic problem solver.
+Self-taught JS<del title="I have been free from PHP since 2015 and I will never go back">& formerly PHP</del> Developer, aspiring DevOps engineer, and enthusiastic problem solver.
 
 <!--- /title -->
 <!--- /welcome -->
 
 <!--- about.all-100 -->
 
-Hi! I'm a **36 years** old **Portuguese** web developer, who enjoys _non-corporate_ environments and coding for challenging projects, currently working @[wearesingular.com](http://www.wearesingular.com) and living in **Lisbon**. This is my extended CV, crafted with answers to the most common questions in my past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my github page
+Hi! I'm a **36-year-old** **Portuguese** web developer who enjoys _non-corporate_ environments and coding for challenging projects. I currently work @[wearesingular.com](http://www.wearesingular.com) and live in **Lisbon**. This is my extended CV, crafted to answer the most common questions I've encountered in past interviews. You can either print this page or find a [plain text](https://github.com/entomb/entomb.github.io/blob/master/README.md) version on my GitHub page.
 
 <!--- /about -->
 
@@ -19,12 +19,13 @@ Hi! I'm a **36 years** old **Portuguese** web developer, who enjoys _non-corpora
 ## What do I do?
 
 - Software Architecture
-- Fullstack buzzwords
-- JS/TS/NODE/HTML/CSS
-- React/Vue/Angular
-- DevOps/Terraform/K8s/AWS.
-- Webservices, SOAP/REST
-- Graphs/SQL/NOSQL/ORACLE
+- JS/TS Full-stack
+- Node/HTML/CSS/React/Vue/Alpine
+- Nextjs/Astro/Nitro/Vite
+- APIs and web services: REST/SOAP/RPC
+- SQL/NoSQL/Graphs (mySQL/PostgreSQL/MongoDB/Neo4j)
+- Docker/Terraform/AWS and other cloud providers
+- DevOps specificaly around Github Actions or Gitlab CI
 
 <!--- /trade -->
 
@@ -32,9 +33,9 @@ Hi! I'm a **36 years** old **Portuguese** web developer, who enjoys _non-corpora
 
 ## Public Profiles:
 
-- [@github](https://github.com/entomb)
-- [@stackoverflow](http://stackoverflow.com/users/1788500/jtavares)
-- [@linkedin](http://linkedin.com/pub/jonathan-tavares/18/a90/a23)
+- [@itHub](https://github.com/entomb)
+- [@StackOverflow](http://stackoverflow.com/users/1788500/jtavares)
+- [@LinkedIn](http://linkedin.com/pub/jonathan-tavares/18/a90/a23)
 
 ## Contact Me:
 
@@ -58,8 +59,10 @@ I am currently with Singular, a small team of T-Shaped engineers that embrace ch
 ##### I work with...
 
 - Mainly Backend development using JS and TS
-- PostgreSQL and GraphQL
-- A Bunch of React/Nextjs/Vue/GraphQL
+- PostgreSQL, MySQL Mongo and GraphQL
+- A Bunch of React/Astro/Nextjs/Vue/Alpine
+- Lots of DevOps expecially using cloud native platforms
+- Lots of github actions and CI/CD
 - Some AWS (s3, ec2, sqs, sns, ebs, Lambda, Cloudwatch, Codebuild/pipeline/deploy)
 - A tiny bit of k8s, helm and terraform
 <!--- /position -->
