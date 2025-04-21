@@ -33,7 +33,7 @@ Hi! I'm a **36-year-old** **Portuguese** web developer who enjoys _non-corporate
 
 ## Public Profiles:
 
-- [@itHub](https://github.com/entomb)
+- [@GitHub](https://github.com/entomb)
 - [@StackOverflow](http://stackoverflow.com/users/1788500/jtavares)
 - [@LinkedIn](http://linkedin.com/pub/jonathan-tavares/18/a90/a23)
 
